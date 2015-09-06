@@ -37,5 +37,8 @@ p.aryg {
 }
 
 p.spiew {
+  font-family: "Courier New";
 	margin-left: 5%;
+  white-space: pre;
+  line-height: 0.6;
 }
