@@ -1,0 +1,41 @@
+a:active {
+	/* potym dadaš što-niebudź */
+}
+
+a:hover.MVIDEA {
+	text-decoration: none;
+	color: gray;
+}
+
+a:link {
+	text-decoration: none;
+	font-weight: 600;
+}
+
+a:link.MVIDEA {
+	font-weight: normal;
+}
+
+a:visited {
+    color: rgba(4, 0, 144, 1);
+    font-weight: normal;
+}
+
+body {
+	background: #FFFFCC;
+	font-family: "Bookman Old Style";
+	font-size: 20px;
+}
+
+p.biel {
+	color: gray;
+}
+
+p.aryg {
+	color: black;
+	font-size: 36px;
+}
+
+p.spiew {
+	margin-left: 5%;
+}
