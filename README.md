@@ -1,4 +1,3 @@
-# trash_and_sodomy
-Here will be all the shit that I wrote.
+# ŚPIEVY
 
-Tut budzie roznaje dziarmo, jakoje ja napisaŭ. хуй
+Tut buduć zachoŭvacca spievy hurtu CIEŃ
