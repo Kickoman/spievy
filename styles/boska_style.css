@@ -69,6 +69,7 @@ p.title {
 p.subtitle {
   text-align: center;
   margin-top: 5px;
+  margin-bottom: 50px;
   font-size: 24pt;
   font-family: cambria, arial;
   font-variant: small-caps;
